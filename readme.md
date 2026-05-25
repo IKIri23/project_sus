@@ -9,10 +9,4 @@ Este projeto é um webservice desenvolvido em **Node.js** com **Express** e **EJ
 **JSON**: Banco de dados estático para consumo das rotas.
 
 ## Pré-requisitos
-Para rodar este projeto localmente, você precisará ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
-
-## Como Instalar e Executar
-
-1. Faça o clone deste repositório:
-   ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+Para rodar este projeto localmente, você precisará ter o [Node.js](https://nodejs.org/) instalado em sua máquina.git add .
