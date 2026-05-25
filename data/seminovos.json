@@ -1,0 +1,8 @@
+[
+  {"nome": "Hospital Geral das Clínicas", "tipo": "Hospital", "pontosFortes": "Corpo clínico altamente especializado.", "gargalos": "Falta de leitos na UTI e tempo de espera alto no PS."},
+  {"nome": "UBS Vila Esperança", "tipo": "UBS", "pontosFortes": "Excelente acompanhamento de pré-natal.", "gargalos": "Falta recorrente de medicamentos básicos na farmácia."},
+  {"nome": "UPA 24h Centro", "tipo": "UPA", "pontosFortes": "Triagem rápida e eficiente.", "gargalos": "Aparelho de Raio-X frequentemente em manutenção."},
+  {"nome": "Hospital Maternidade", "tipo": "Hospital", "pontosFortes": "Humanização no parto e UTI neonatal de ponta.", "gargalos": "Poucos anestesistas de plantão aos finais de semana."},
+  {"nome": "Centro de Especialidades Odontológicas", "tipo": "Clínica", "pontosFortes": "Equipamentos modernos e dentistas atenciosos.", "gargalos": "Fila de espera de 3 meses para tratamento de canal."},
+  {"nome": "UBS Parque das Árvores", "tipo": "UBS", "pontosFortes": "Ótimas campanhas de vacinação.", "gargalos": "Equipe de enfermagem reduzida."}
+]

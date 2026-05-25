@@ -1,0 +1,8 @@
+[
+  {"nome": "Mutirão de Catarata", "vagas": 150, "detalhes": "Cirurgias gratuitas para idosos com diagnóstico fechado."},
+  {"nome": "Vacinação Drive-Thru", "vagas": 500, "detalhes": "Vacinação contra gripe e COVID-19 sem sair do carro."},
+  {"nome": "Atendimento Odontológico Corujão", "vagas": 45, "detalhes": "Limpeza e extração em horário estendido (18h às 22h)."},
+  {"nome": "Programa Saúde da Mulher", "vagas": 80, "detalhes": "Realização de mamografia e Papanicolau sem agendamento prévio."},
+  {"nome": "Campanha de Doação de Sangue", "vagas": 200, "detalhes": "Coleta móvel na praça central com lanche reforçado pós-coleta."},
+  {"nome": "Controle de Hipertensão e Diabetes", "vagas": 120, "detalhes": "Aferição de pressão e glicemia com entrega de medicamentos."}
+]

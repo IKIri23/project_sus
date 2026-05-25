@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Serviços e Ofertas</title>
+</head>
+<body>
+    <h1>Serviços de Saúde e Programas Preventivos</h1>
+    <a href="/">Voltar ao Início</a>
+    <hr>
+    <ul>
+        <% ofertas.forEach(function(oferta) { %>
+            <li>
+                <h3><%= oferta.nome %></h3>
+                <p><strong>Vagas/Atendimentos:</strong> <%= oferta.vagas %></p>
+                <p><strong>Detalhes:</strong> <%= oferta.detalhes %></p>
+            </li>
+        <% }); %>
+    </ul>
+</body>
+</html>

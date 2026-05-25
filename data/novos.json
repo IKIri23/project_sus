@@ -1,0 +1,8 @@
+[
+  {"nome": "Tomógrafo Computadorizado 3D", "tipo": "Equipamento", "descricao": "Equipamento de alta precisão para diagnósticos rápidos na UPA.", "foto": "https://via.placeholder.com/150"},
+  {"nome": "UBS Jardim Aurora", "tipo": "Unidade", "descricao": "Nova unidade básica de saúde focada em medicina preventiva.", "foto": "https://via.placeholder.com/150"},
+  {"nome": "Ambulância UTI Móvel", "tipo": "Veículo", "descricao": "Veículo equipado para suporte avançado de vida em transferências.", "foto": "https://via.placeholder.com/150"},
+  {"nome": "Insulina Glargina", "tipo": "Medicamento", "descricao": "Nova insulina de longa duração incorporada à farmácia popular.", "foto": "https://via.placeholder.com/150"},
+  {"nome": "Centro de Atenção Psicossocial (CAPS)", "tipo": "Unidade", "descricao": "Espaço recém-inaugurado para atendimento focado em saúde mental.", "foto": "https://via.placeholder.com/150"},
+  {"nome": "Aparelho de Raio-X Digital", "tipo": "Equipamento", "descricao": "Raio-X com emissão de laudo imediato integrado ao sistema.", "foto": "https://via.placeholder.com/150"}
+]

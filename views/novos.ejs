@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Novas Incorporações</title>
+</head>
+<body>
+    <h1>Novas Unidades, Equipamentos e Medicamentos</h1>
+    <a href="/">Voltar ao Início</a>
+    <hr>
+    <ul>
+        <% novos.forEach(function(item) { %>
+            <li style="margin-bottom: 20px;">
+                <h3><%= item.nome %> (<%= item.tipo %>)</h3>
+                <img src="<%= item.foto %>" alt="Foto de <%= item.nome %>" width="300">
+                <p><%= item.descricao %></p>
+            </li>
+        <% }); %>
+    </ul>
+</body>
+</html>

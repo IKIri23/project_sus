@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Auditoria de Unidades</title>
+</head>
+<body>
+    <h1>Auditoria e Gestão de Unidades Existentes</h1>
+    <a href="/">Voltar ao Início</a>
+    <hr>
+    <ul>
+        <% seminovos.forEach(function(unidade) { %>
+            <li style="margin-bottom: 15px;">
+                <h3><%= unidade.nome %> (<%= unidade.tipo %>)</h3>
+                <p style="color: green;"><strong>Pontos Fortes:</strong> <%= unidade.pontosFortes %></p>
+                <p style="color: red;"><strong>Gargalos/Negativos:</strong> <%= unidade.gargalos %></p>
+            </li>
+        <% }); %>
+    </ul>
+</body>
+</html>
